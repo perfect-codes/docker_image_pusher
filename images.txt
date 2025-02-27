@@ -7,3 +7,4 @@ xhofe/alist:latest
 minio/minio
 mysql
 mysql:8.0
+registry.k8s.io/kube-proxy:v1.31.4
